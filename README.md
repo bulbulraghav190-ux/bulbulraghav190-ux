@@ -43,7 +43,7 @@ Analyzed healthcare data using SQL to explore patient-related information, depar
 
 **Tools:** SQL
 
-🔗 [View Project](PROJECT_LINK_HERE)
+🔗 [View Project](https://github.com/bulbulraghav190-ux/Global-Medicare-SQL-Analysis)
 
 ---
 
