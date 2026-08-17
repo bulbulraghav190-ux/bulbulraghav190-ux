@@ -15,7 +15,7 @@ I’m an aspiring Data Analyst passionate about transforming data into meaningfu
 - 💡 Interested in turning raw data into actionable insights
 - 🛠️ Building practical projects using SQL, Excel, Power BI, and Python
 - 🚀 Continuously learning and improving my analytical skills
-- 📍 Bulandshahr, Uttar Pradesh, India
+- 📍 Noida, Uttar Pradesh, India
 
 ---
 
