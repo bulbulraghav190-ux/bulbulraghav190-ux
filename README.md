@@ -50,36 +50,34 @@ Analyzed healthcare data using SQL to explore patient-related information, depar
 ### 💳 Transactions Analysis
 Performed data analysis on transaction-related data to explore patterns and derive meaningful insights.
 
-**Tools:** SQL / Data Analysis
+**Tools:** Power bi/ Data Analysis
 
-🔗 [View Project](PROJECT_LINK_HERE)
+🔗 [View Project](https://github.com/bulbulraghav190-ux/Bank_Transaction_Analytics_PowerBI)
 
 ---
 
-### 📚 Online Book Store — Power BI End-to-End Project
+### 📚HR Analytics Dashboard — Power BI — Power BI End-to-End Project
 Built an end-to-end Power BI project focused on transforming data into interactive visualizations and meaningful business insights.
 
 **Tools:** Power BI | Data Visualization
 
-🔗 [View Project](PROJECT_LINK_HERE)
+🔗 [View Project](https://github.com/bulbulraghav190-ux/HR-Analytics-Dashboard-PowerBI)
 
 ---
 
-### 📈 Sales Dashboard — Excel
-Created an interactive sales dashboard in Excel to analyze sales performance and present data through clear visualizations.
+### 📈 Customer Churn Analysis — Python
+**Tools:** Python| Data Analysis | Data Visualization
 
-**Tools:** Microsoft Excel | Data Analysis | Data Visualization
-
-🔗 [View Project](PROJECT_LINK_HERE)
+🔗 [View Project](https://github.com/bulbulraghav190-ux/Customer-Churn-Analysis)
 
 ---
 
-### 📊 End-to-End Data Analytics Project — Power BI
-Developed an end-to-end analytics project in Power BI, focusing on data transformation, analysis, visualization, and presenting insights in an interactive dashboard.
+### Netflix Content Analysis — Python
+Used Python, Pandas, and Matplotlib to clean, analyze, and visualize the data.
 
 **Tools:** Power BI | Data Analysis | Data Visualization
 
-🔗 [View Project](PROJECT_LINK_HERE)
+🔗 [View Project](https://github.com/bulbulraghav190-ux/Netflix_Content_Analysis)
 
 ---
 
